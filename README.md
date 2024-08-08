@@ -1,10 +1,33 @@
-<h1>Proyecto prueba</h1>
+---
 
+# Tarjetas HTML CSS Puro
 
-Pagina de cartas usando solamente HTML y CSS puro.
+Un proyecto que muestra una página web de tarjetas creada solo con HTML y CSS.
+
+## Demo
+
+Puedes ver la página en vivo [aquí](https://aesthetic-custard-4caf94.netlify.app).
+
+## Contenidos
+
+- `index.html`: El archivo HTML principal.
+- `css/`: Directorio que contiene los estilos CSS.
+- `imagenes/`: Directorio que contiene imágenes.
+- `videos/`: Directorio que contiene videos.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
+
+---
+
+Para más detalles, visita el [repositorio](https://github.com/MelonConYogurt/cards_html_css_pure).
 
 Visita la pagina [aqui](https://aesthetic-custard-4caf94.netlify.app/) 
 
+
+
+## Capturas de Pantalla
 ![Screenshot 2024-07-22 205649](https://github.com/user-attachments/assets/3d539ad8-bdba-4e07-b979-e50cccc6c6cd)
 ![Screenshot 2024-07-22 205643](https://github.com/user-attachments/assets/04974a93-8349-4241-8ccb-6b624e02efc7)
 ![Screenshot 2024-07-22 205652](https://github.com/user-attachments/assets/5336f74a-eb10-469e-b4b3-542fda470b9f)
